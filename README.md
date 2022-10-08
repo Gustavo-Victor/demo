@@ -1,6 +1,6 @@
-# Demo 
+# Demo 😁
 
-Hi Dear, Welcome!
+Hi Dear, Welcome! ✌✌
 
 This repository is only to learn and review things about Git and Github 
 
